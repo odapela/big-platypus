@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Homepage</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+  
+  
+<body>
+
+  <h1>
+    &ensp; 
+
+  <img src="logo_pandemie.png">
+    
+  </h1>
+
+  <h3>
+    RICCARDO RIZZO BASTA E LAVORA  vs Petrarca, chi vince?
+  </h3>
+
+  
+      <h4>
+      Indice
+      </h4>
+  
+<ul>  
+<li>Primo link</li>
+<li>Secondo link</li>
+<li>Terzo link</li>
+</ul>
+
+  
+
+  <!--
+<p> primo paragrafo
+</p>
+
+  <p>
+  secondo paragrafo
+</p>
+
+  <ul>  ELENCO PUNTATO
+<li>primo elemento</li>
+<li>secondo elemento</li>
+<li>terzo elemento</li>
+</ul>
+
+  <ol>  ELENCO NUMERATO
+<li>primo elemento</li>
+<li>secondo elemento</li>
+<li>terzo elemento</li>
+</ol>
+  
+  -->
+
+<!--  
+<div class="div_centrato">
+  <img src="download.jpg" alt="Mia immagine">
+</div>
+
+  -->
+
+
+  <a href="https://google.it/">sito.it</a>.
+  
+  
+  
+</body>
+
+</html>
